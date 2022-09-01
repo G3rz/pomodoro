@@ -13,9 +13,8 @@ function beep() {
 
 function greenBackground(){
     document.body.style.background = "darkgreen"
-    title.textContent = "Start"
+    title.textContent = "In progress"
     favicon.href = "favicon/start.ico"
-    title.textContent = "Start"
 }
 
 
